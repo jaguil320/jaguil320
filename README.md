@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">📰Desarrollo de Marcas<br>🎙️Postcat audio visuales<br>🎞️Diseño Gráfico<br>💻Desarrollo web<br>🎯Marketing Digital<br>📈Posicionamiento SEO y SEM<br><br>Soy un programador junior full stack con experiencia en el desarrollo web utilizando tecnologías como React, Flask y PostgreSQL. Cuento con sólidos conocimientos en diseño UX/UI, enfocándome en crear interfaces intuitivas y centradas en el usuario. Además, tengo experiencia en marketing digital, lo que me permite desarrollar productos y marcas con una visión estratégica, alineando el diseño y la funcionalidad con los objetivos del negocio. Mi objetivo es seguir creciendo profesionalmente, combinando el desarrollo web, el diseño de experiencias digitales y el marketing para crear soluciones innovadoras y efectivas.</p>
+<p align="left">📰Desarrollo de Marcas<br>🎙️Postcat audio visuales<br>🎞️Diseño Gráfico<br>💻Desarrollo web<br>🎯Marketing Digital<br>📈Posicionamiento SEO y SEM<br><br>Soy un programador junior full stack con experiencia en el desarrollo web utilizando tecnologías como Html, Css, JavaScript, Node.js, Express.js, MongoDB y PostgreSQL. Cuento con sólidos conocimientos en diseño UX/UI, enfocándome en crear interfaces intuitivas y centradas en el usuario. Además, tengo experiencia en marketing digital, lo que me permite desarrollar productos y marcas con una visión estratégica, alineando el diseño y la funcionalidad con los objetivos del negocio. Mi objetivo es seguir creciendo profesionalmente, combinando el desarrollo web, el diseño de experiencias digitales y el marketing para crear soluciones innovadoras y efectivas.</p>
 
 ###
 
